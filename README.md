@@ -1,7 +1,7 @@
 ## Oi, eu sou o Denis e estas são algumas informações sobre mim ✌
 
 - 🏫 Fatec Rio Preto
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas (5º período)
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas (6º período)
 - 🗺 São José do Rio Preto, São Paulo, Brasil
 - 👨‍💻 Buscando ser Desenvolvedor de Software no Futuro
 
