@@ -18,7 +18,7 @@
   </div>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisduarth&size_weight=0.7&count_weight=0.7&layout=donut">
-  <img src="https://github-readme-stats.vercel.app/api?username=denisduarth&show_icons=true&theme=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=denisduarth&show_icons=true&theme=dracula">
   <img height=250 align="center" src="https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif">
 </div>
 
